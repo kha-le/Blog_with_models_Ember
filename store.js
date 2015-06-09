@@ -1,12 +1,12 @@
 var posts = [
   {
-    id: '1',
-    title: "Blog post 1",
+    id: '2',
+    title: "Blog post 2",
     body: "Things and stuf and things"
   },
   {
-    id: '2',
-    title: "Blog post 2",
+    id: '1',
+    title: "Blog post 1",
     body: "Things and stuf and things"
   },
   {
