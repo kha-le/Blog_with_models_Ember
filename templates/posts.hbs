@@ -1,0 +1,7 @@
+<h1>Dracula's Blog</h1>
+
+<ul>
+  {{#each}}
+    <li>{{#link-to 'post' this.id}}{{title}}{{/link-to}}</li>
+  {{/each}}
+</ul>
